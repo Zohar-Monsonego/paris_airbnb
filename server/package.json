@@ -17,5 +17,9 @@
     "dotenv": "^17.2.3",
     "express": "^5.1.0",
     "mssql": "^12.7.14"
+  },
+  "overrides": {
+    "https-proxy-agent": "^7.0.6",
+    "http-proxy-agent": "7.0.2"
   }
 }
